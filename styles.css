@@ -22,7 +22,7 @@ li {
 
 body {
     background: linear-gradient(to right, #00031d, #000536);
-
+display: table;
 }
 
 img {
