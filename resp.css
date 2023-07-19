@@ -1,0 +1,21 @@
+@media only screen and (max-width:1454px){
+    img{
+        left: -290px;
+
+    }
+    h4{
+        top: 195px;
+    }
+    #wavy{
+        bottom: 355px;
+
+    }
+    .btn{
+        top: 171px;
+        left: 117px;
+    }
+    .main{
+top: 77px;
+    
+    }
+}
